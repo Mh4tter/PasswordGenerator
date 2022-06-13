@@ -1,5 +1,5 @@
-# PasswordGenorator
-super quick and dirty password genorator
+# PasswordGenerator
+super quick and dirty password generator
 
 This genorator was a quick project just to have readily avaliable, easily human readible, passwords for new users.
 I based it off of Metal Gear Solid 5's soldier naming system, so the password is AdjectiveNoun format.
